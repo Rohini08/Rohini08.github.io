@@ -132,13 +132,15 @@ span.menu {
   font-size: 1.1em;
   display: inline-block;
   margin-top: 2.5em;
-  border: 2px solid #3598db;
+  border: 2px solid black ;
+  
+
   border-radius: 5px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
   -o-border-radius: 5px;
-  background: #3598db;
+  background: black;
 }
 .banner-info a:hover{
 	text-decoration:none;
@@ -183,7 +185,7 @@ label{
   margin-bottom: 1.5em;
   padding: 32px 0px;
   background:#fff;
-  border:2px solid #3598db;
+  border:2px solid #A82163;
 }
 .glyphicon-phone:before, .glyphicon-thumbs-up:before, .glyphicon-picture:before,.glyphicon-user:before, .glyphicon-education:before, .glyphicon-book:before, .glyphicon-briefcase:before, .glyphicon-gift:before{
   color:#9F9F9F;
@@ -191,7 +193,7 @@ label{
 }
 .icon-info {
   float: left;
-  width: 74%;
+  width: 72%;
   margin-left: 3%;
 }
 .icon-info h4 a {
@@ -218,7 +220,7 @@ label{
 	padding:2em 0
 }
 .about-right h3,.service h3,.gallery h3,.blog h3,.contact h3, .skill h3, .experience h3{
-	color:#3598db;
+	color:#A82163;
 	font-size:2.5em;
 	font-family: 'Dosis-bold';
 	text-align:center;
@@ -548,7 +550,7 @@ padding:2em 0 0.5em 0;
   z-index: 99; /* Make sure it does not overlap */
   border: none; /* Remove borders */
   outline: none; /* Remove outline */
-  background-color:  #3598db ; /* Set a background color */
+  background-color:  #A82163 ; /* Set a background color */
   color: white; /* Text color */
   cursor: pointer; /* Add a mouse pointer on hover */
   padding: 15px; /* Some padding */
